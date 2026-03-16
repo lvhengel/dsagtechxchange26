@@ -277,7 +277,7 @@ Try to find some other equipment.
 | You will build | Notification creation agent + in-app chat integration |
 | Outcome | End-to-end flow from chat to SAP PM notification |
 
-In this exercise we will create another Agent that uses two tools and the Agent Chat control inside a SAPUI5 application.
+In this exercise we will create another Agent that uses two tools and the Agent Chat control inside a UI5 application.
 - One tool to find equipment with `EquipmentTool_xx` from the previous exercise
 - One tool to create Notifications `CreateNotificationTool`
 
@@ -319,7 +319,7 @@ In the `Advanced` tab we will select the previously created Equipment Tool `Equi
 
 ![Create Notifications Agent - Advanced](/images/10_createnotification_agent_advanced.png)
 
-## Create SAPUI5 Application with App Designer
+## Create UI5 Application with App Designer
 
 From the Cockpit, open the search bar, type **App Designer**, and select **App Designer** from the list.
 
@@ -459,7 +459,7 @@ By the end of this workshop, you have:
 
 - Created multiple Naia agents for SAP PM scenarios
 - Connected AI Tools to live API-based business data
-- Embedded Agent Chat inside a SAPUI5 app
+- Embedded Agent Chat inside a UI5 app
 - Used vectorised manuals for contextual AI responses
 - Triggered SAP PM notifications and work-order support flows
 
