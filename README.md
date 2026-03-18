@@ -469,6 +469,35 @@ By the end of this workshop, you have:
 
 ## 🚧 Bonus Exercise 05: Naia Build
 
-TODO
+Describe what you need in plain text, and watch Neptunes AI Assistant “Naia” build a real, enterprise-grade SAP Fiori app in minutes. Fully extendable with Neptune’s SAP-native Low-Code tooling.
+
+### Create a new Application with a Prompt
+
+- Start the App Designer and press the `Create` button to create a new Application
+- Enter a name for the new application eg. `NaiaBuild_xx`
+- Select Type `Application`
+- Press `Create`
+- Open the `Naia Build` side panel on the right side
+- Enter a prompt to create a new application (be creative and try things out :)
+
+Examples of prompt can be found on our website here 
+https://www.neptune-software.com/naia-build/
+
+### Update an existing application
+
+- Open the `pm_notification_xx` you created in the exercise above
+- Open the `Naia Build` side panel
+- Update the application by prompting `Naia` to update or add new functionality. For example add a button, change the styling of the application.
+
+## 🎼 E-Learning material
+
+To learn more about Neptune DXP and Naia Agent Studio checkout our E-learning material
+
+[Neptune E-learning](https://portal.neptune-software.com/launchpad/portal?_gl=1*122x8vn*_gcl_au*MTUxNzMzMDQ5OC4xNzUxNDQyNTk2LjgxNTU1NzUyMC4xNzUzMjA3Nzk4LjE3NTMyMDc4MDI.#learning-hub)
+
+![Naia Agent Studio E-learning](/images/21_elearning.png)
+
+
+
 
 
