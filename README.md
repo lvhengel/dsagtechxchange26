@@ -89,7 +89,6 @@ https://dsag26.neptune-software.cloud/cockpit.html
 
 | At a Glance | |
 |-------------|-|
-| Estimated time | 30-40 min |
 | You will build | Your first Naia agent |
 | Outcome | Working agent with instructions and system variables |
 
@@ -170,7 +169,6 @@ You now have a fully working agent with basic instructions and dynamic variables
 
 | At a Glance | |
 |-------------|-|
-| Estimated time | 40-50 min |
 | You will build | Equipment lookup AI Tool and AI Agent |
 | Outcome | Agent that searches technical objects via API |
 
@@ -273,7 +271,6 @@ Try to find some other equipment.
 
 | At a Glance | |
 |-------------|-|
-| Estimated time | 60-75 min |
 | You will build | Notification creation agent + in-app chat integration |
 | Outcome | End-to-end flow from chat to SAP PM notification |
 
@@ -361,7 +358,6 @@ Press the `Activate` button and then press the `Run` button at the top of the sc
 
 | At a Glance | |
 |-------------|-|
-| Estimated time | 45-60 min |
 | You will build | Manual search agent with vectorised manual data |
 | Outcome | AI-generated work-order instructions in app |
 
