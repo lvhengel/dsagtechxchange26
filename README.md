@@ -321,6 +321,8 @@ In the `Advanced` tab we will select the previously created Equipment Tool `Equi
 
 ## Create UI5 Application with App Designer
 
+Download the [pm_notification_template.planet9](https://github.com/lvhengel/dsagtechxchange26/blob/main/pm_notification_template.planet9) file from GitHub.
+
 From the Cockpit, open the search bar, type **App Designer**, and select **App Designer** from the list.
 
 In the `App Designer` dialogue select `Create from file` and upload the file `pm_notification_template`
